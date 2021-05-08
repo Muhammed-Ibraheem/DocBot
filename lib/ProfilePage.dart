@@ -52,7 +52,7 @@ class ProfilePage extends StatelessWidget {
                mainAxisAlignment: MainAxisAlignment.spaceBetween,
                children: <Widget> [
                  CircleAvatar(
-                   backgroundImage: AssetImage("assets/user.jpg"),
+                   backgroundImage: AssetImage("images/user.jpg"),
                    radius: 80.0,
                  ),
                  SizedBox(height: 10.0,),
